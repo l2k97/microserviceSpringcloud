@@ -1,0 +1,10 @@
+server:
+  port: 7002
+eureka:
+  instance:
+    hostname: Eurekademo2
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    service-url:
+      defaultZone: http://Eurekademo1:7001/eureka/

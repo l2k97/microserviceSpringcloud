@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="comatguiguspringcloudmicrosevicecloudEureka" />
+        <module name="microservicecloudapi" />
+        <module name="microservicecloudconsumer80" />
+        <module name="microservicecloudEureka7002" />
+        <module name="microservicecloudproviderdept8001" />
+        <module name="microservicecloudproviderdept8002" />
+        <module name="microservicecloudproviderdeptfeign" />
+        <module name="microserviecloudprovicerdepthystrix" />
+        <module name="microsevicecloudEureka" />
+        <module name="microsevicecloudEureka7001" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="comatguiguspringcloudmicrosevicecloudEureka" target="1.8" />
+      <module name="microservicecloud" target="1.8" />
+      <module name="microservicecloudapi" target="1.8" />
+      <module name="microservicecloudconsumer80" target="1.8" />
+      <module name="microservicecloudEureka7002" target="1.8" />
+      <module name="microservicecloudproviderdept8001" target="1.8" />
+      <module name="microservicecloudproviderdept8002" target="1.8" />
+      <module name="microservicecloudproviderdept8003" target="1.8" />
+      <module name="microservicecloudproviderdeptfeign" target="1.8" />
+      <module name="microserviecloudprovicerdepthystrix" target="1.8" />
+      <module name="microsevicecloudEureka" target="1.8" />
+      <module name="microsevicecloudEureka7001" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
